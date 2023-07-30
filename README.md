@@ -1,6 +1,6 @@
 <div style="display:inline;"> 
-   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" padding-left="0px"   alt="Banner">
-   <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="100%" padding-left="0px"   alt="Banner">
+   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%"   " padding-left="0px"   alt="Banner">
+    
    
     
   </div>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangogupta&show_icons=true&locale=en" alt="shivangogupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangogupta&" alt="shivangogupta" /></p>
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="100%" padding-left="0px"   alt="Banner">
