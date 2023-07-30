@@ -1,7 +1,8 @@
 <div style="display:inline;"> 
-   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="413" padding-left="0px"   alt="Banner">
-   <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="293" padding-left="0px"   alt="Banner">
-    <img src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif" width="293" padding-left="0px"   alt="Banner">
+   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" padding-left="0px"   alt="Banner">
+   <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="100%" padding-left="0px"   alt="Banner">
+   
+    
   </div>
 <h1 align="center">Hi 👋, I'm Shivang Gupta</h1>
 <h3 align="center">A passionate full stack developer /Software engineer from India</h3>
