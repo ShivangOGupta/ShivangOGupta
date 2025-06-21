@@ -42,8 +42,9 @@ Welcome to my GitHub! I'm passionate about turning raw data into meaningful insi
 |**EM-Hospital Room Dashboard**| Interactive dashboard for  analysis                     | Excel                   |
 
 <h2>📬 Let's Connect</h2>
-📧 Email:shivanggupta2468@gmail.com
+📧 Email : shivanggupta2468@gmail.com
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/shivang-gupta-214a6a279/)
+🐱 [GitHub](https://github.com/ShivangOGupta) 
 
-🐱 [GitHub]()
+
