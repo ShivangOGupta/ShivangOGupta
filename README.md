@@ -2,12 +2,13 @@
    <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%"   " padding-left="0px"   alt="Banner">
    
   </div>
-    <p align ="center"><h1 text-align="centre">👋 Hi, I'm Shivang Gupta </h1></p>
+   <h1><p align="center">👋 Hi, I'm Shivang Gupta  </p> </h1>
+
 <h3>🎯 Aspiring Data Analyst | SQL • Excel • Power BI • Python  • Data Visualization </h3>
 
 Welcome to my GitHub! I'm passionate about turning raw data into meaningful insights that drive smarter decisions. I enjoy exploring datasets, creating dashboards, and solving real-world problems using data.
 
-<h3>📊 About Me</h3>
+<h2> <p align="center">📊 About Me  </p>  </h2>
 
 🎓 Completed B.Tech in Civil Engineering from D.T.U
 
@@ -24,12 +25,25 @@ Welcome to my GitHub! I'm passionate about turning raw data into meaningful insi
 🌱 Currently enhancing my skills in Python ,Web Technologies
 
 🛠️ Tools & Technologies
-- Languages: SQL, Python 
-
+- Languages: SQL, Python
 - Data Tools: Excel (Pivot Tables, VLOOKUP, Dashboarding), Power BI
-
 - Databases: MySQL, Postgresql
 - Front-End Technologies : HTML,CSS ,Java Script ,Tailwind
 - Back-End Technologies : Node JS , Express JS
 - Other: Git & GitHub 
- 
+
+<h2>📁 My Projects </h2>
+
+| Project Name                 | Description                                             | Tools Used              |
+| -------------------------    | ------------------------------------------------------- | ----------------------- |
+| **Bike Shop Dashboard**      | Analyzed sales trends and generated KPIs using Power BI | Power BI                |
+| **SQL book_shop Dataset**    | Performed data queries to uncover sales insights        | MySQL                   |
+| **Simon Game**               | Used clustering to group customers                      | Java Script, HTML, CSS  |
+|**EM-Hospital Room Dashboard**| Interactive dashboard for  analysis                     | Excel                   |
+
+<h2>📬 Let's Connect</h2>
+📧 Email:shivanggupta2468@gmail.com
+
+💼 LinkedIn
+
+🐱 [GitHub]()
