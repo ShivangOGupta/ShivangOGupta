@@ -34,12 +34,12 @@ Welcome to my GitHub! I'm passionate about turning raw data into meaningful insi
 
 <h2>📁 My Projects </h2>
 
-| Project Name                 | Description                                             | Tools Used              |
-| -------------------------    | ------------------------------------------------------- | ----------------------- |
-| **Bike Shop Dashboard**      | Analyzed sales trends and generated KPIs using Power BI | Power BI                |
-| **SQL book_shop Dataset**    | Performed data queries to uncover sales insights        | MySQL                   |
-| **Simon Game**               | Used clustering to group customers                      | Java Script, HTML, CSS  |
-|**EM-Hospital Room Dashboard**| Interactive dashboard for  analysis                     | Excel                   |
+| Project Name                 | Description                                                | Tools Used              |
+| -------------------------    | -------------------------------------------------------    | ----------------------- |
+| **Bike Shop Dashboard**      | Analyzed sales trends and generated visulas using Power BI | Power BI                |
+| **SQL book_shop Dataset**    | Performed data queries to uncover sales insights           | MySQL                   |
+| **Simon Game**               | A game to strong your memory                               | Java Script, HTML, CSS  |
+|**EM-Hospital Room Dashboard**| Interactive dashboard for  analysis to improve service     | Excel                   |
 
 <h2>📬 Let's Connect</h2>
 📧 Email : shivanggupta2468@gmail.com
